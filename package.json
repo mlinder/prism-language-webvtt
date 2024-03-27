@@ -1,0 +1,27 @@
+{
+  "name": "prism-language-webvtt",
+  "version": "0.5.0",
+  "description": "WebVTT language definition for syntax highlighting with Prism",
+  "main": "prism-webvtt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlinder/prism-language-webvtt.git"
+  },
+  "keywords": [
+    "prism",
+    "highlight",
+    "webvtt"
+  ],
+  "author": "Marcus Linder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mlinder/prism-language-webvtt/issues"
+  },
+  "homepage": "https://github.com/mlinder/prism-language-webvtt#readme",
+  "dependencies": {
+    "prismjs": "^1.29.0"
+  }
+}
