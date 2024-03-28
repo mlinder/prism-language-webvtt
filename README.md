@@ -15,7 +15,7 @@ Load the language definition after Prism and define additional classes in your s
 Usage with a bundler:
 
 ```console
-npm install prism-language-m3u
+npm install prism-language-webvtt
 ```
 
 ```js
