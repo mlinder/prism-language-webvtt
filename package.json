@@ -1,6 +1,6 @@
 {
   "name": "prism-language-webvtt",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "WebVTT language definition for syntax highlighting with Prism",
   "main": "prism-webvtt.js",
   "scripts": {
